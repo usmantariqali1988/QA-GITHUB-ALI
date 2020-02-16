@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15896" started-at="2020-02-12T21:00:27 CST" finished-at="2020-02-12T21:00:43 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15896" started-at="2020-02-12T21:00:27 CST" finished-at="2020-02-12T21:00:43 CST">
+      <class name="test.NewDepositTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:test.NewDepositTest@2758fe70]" name="startBrowser" is-config="true" duration-ms="7925" started-at="2020-02-12T21:00:28 CST" finished-at="2020-02-12T21:00:35 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="UserShouldAbleToDeposit()[pri:0, instance:test.NewDepositTest@2758fe70]" name="UserShouldAbleToDeposit" duration-ms="2976" started-at="2020-02-12T21:00:35 CST" finished-at="2020-02-12T21:00:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserShouldAbleToDeposit -->
+        <test-method status="PASS" signature="closeEverthing()[pri:0, instance:test.NewDepositTest@2758fe70]" name="closeEverthing" is-config="true" duration-ms="4955" started-at="2020-02-12T21:00:38 CST" finished-at="2020-02-12T21:00:43 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeEverthing -->
+      </class> <!-- test.NewDepositTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
